@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Try Again -->
+    <string name="tryAgain">Try Again</string>
+
+    <string name="emptyFieldsResponse">Please fill the details</string>
+
+    <!-- Name -->
+    <string name="nameFieldEmptyResponse">Please enter your name</string>
+    <string name="nameFieldInvalidResponse">Please enter valid name</string>
+    <string name="nameFieldOnlyAlphabetResponse">Name must contain only alphabets</string>
+
+    <!-- Email -->
+    <string name="emailFieldEmptyResponse">Please enter your email id</string>
+    <string name="emailFieldInvalidResponse">Please enter valid email address</string>
+
+    <!-- Password -->
+    <string name="passwordFieldEmptyResponse">Please enter your password</string>
+    <string name="passwordFieldLengthResponse">Password length must be 6 to 20 characters</string>
+    <string name="passwordFieldNotMatchedResponse">Password not matched</string>
+
+    <!-- Phone -->
+    <string name="phoneFieldEmptyResponse">Please enter your phone</string>
+    <string name="phoneFieldInvalidResponse">Please enter valid phone</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Preferences -->
+    <string name="pref_user_id">userId</string>
+
+    <string name="preferencesFile">chatapp.prefs</string>\
+
+    <string name="pref_fragment">fragment</string>
+</resources>

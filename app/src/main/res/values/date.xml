@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dateInputFormat">yyyy-MM-dd HH:mm:ss</string>
+    <string name="dateOutputFormat">MMM dd,yyyy hh:mm a</string>
+    <string name="timeZone">UTC</string>
+</resources>

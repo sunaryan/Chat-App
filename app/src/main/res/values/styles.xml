@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="alertDialogTheme">@style/Theme.AppCompat.Light.Dialog.Alert</item>
+        <item name="windowActionBar">false</item>
+        <!--<item name="actionOverflowButtonStyle">@style/OverFlow</item>-->
+    </style>
+
+    <!--&lt;!&ndash; Action Overflow Menu icon &ndash;&gt;-->
+    <!--<style name="OverFlow" parent="Widget.AppCompat.ActionButton.Overflow">-->
+    <!--<item name="android:src">@drawable/overflow</item>-->
+    <!--</style>-->
+
+    <!-- Theme for Progress Dialog -->
+    <style name="progressDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="toolBarTheme" parent="AppTheme">
+        <item name="selectableItemBackground">?android:selectableItemBackground</item>
+        <!--<item name="colorControlHighlight">@color/hintColor</item>-->
+    </style>
+
+    <!--<style name="SplashTheme" parent="AppTheme">-->
+    <!--<item name="android:windowNoTitle">true</item>-->
+    <!--<item name="android:windowFullscreen">true</item>-->
+    <!--<item name="android:windowBackground">@drawable/splash</item>-->
+    <!--</style>-->
+
+    <style name="TabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+        <item name="android:textSize">@dimen/textSizeSmall</item>
+    </style>
+
+    <!--<style name="ratingBarStyle" parent="Theme.AppCompat">-->
+    <!--<item name="colorControlNormal">@color/white</item>-->
+    <!--<item name="colorControlActivated">@color/splashBackgroundColor</item>-->
+    <!--</style>-->
+
+    <!--<style name="seekBarStyle" parent="Theme.AppCompat.Light">-->
+    <!--&lt;!&ndash; active thumb & track color (30% transparency) &ndash;&gt;-->
+    <!--<item name="colorControlActivated">@color/splashBackgroundColor</item>-->
+    <!--<item name="colorControlNormal">@color/white</item>-->
+    <!--</style>-->
+
+</resources>

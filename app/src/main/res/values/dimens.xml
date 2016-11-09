@@ -1,0 +1,22 @@
+<resources>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="buttonHeight">40dp</dimen>
+    <dimen name="drawablePadding">5dp</dimen>
+
+    <dimen name="textSizeVerySmall">10sp</dimen>
+    <dimen name="textSizeSmall">12sp</dimen>
+    <dimen name="textSizeMedium">14sp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="textSizeLarge">18sp</dimen>
+    <dimen name="textSizeVeryLarge">20sp</dimen>
+
+    <dimen name="item_margin">2dp</dimen>
+    <dimen name="dashBoardIconSize">50dp</dimen>
+    <dimen name="settingIconSize">40dp</dimen>
+
+    <dimen name="viewMarginVerySmall">2dp</dimen>
+    <dimen name="viewMarginSmall">5dp</dimen>
+    <dimen name="viewMargin">10dp</dimen>
+    <dimen name="viewMarginLarge">15dp</dimen>
+    <dimen name="viewMarginVeryLarge">20dp</dimen>
+</resources>

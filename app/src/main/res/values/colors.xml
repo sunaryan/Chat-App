@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00ACEE</color>
+    <color name="colorPrimaryDark">#00A3E4</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black">#000000</color>
+    <color name="blackLight">#ab000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="inviteColor">#5aff35</color>
+    <color name="dismissColor">#e94444</color>
+    <color name="lightGrey">#E0E0E0</color>
+
+</resources>

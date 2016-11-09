@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        android:orientation="vertical"
+        android:padding="@dimen/viewMarginSmall">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_border"
+            android:gravity="center"
+            android:padding="@dimen/viewMargin"
+            android:text="Options"
+            android:textColor="@color/black"
+            android:textSize="@dimen/textSizeLarge" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/viewMargin" />
+
+        <TextView
+            android:id="@+id/invite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_border"
+            android:drawableLeft="@drawable/invite"
+            android:drawablePadding="@dimen/viewMargin"
+            android:drawableStart="@drawable/invite"
+            android:gravity="center_vertical"
+            android:padding="@dimen/viewMargin"
+            android:text="@string/inviteMenuItem"
+            android:textColor="@color/black"
+            android:textSize="@dimen/textSizeLarge" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/viewMarginSmall" />
+
+        <TextView
+            android:id="@+id/dummy1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_border"
+            android:drawableLeft="@drawable/invite"
+            android:drawablePadding="@dimen/viewMargin"
+            android:drawableStart="@drawable/invite"
+            android:gravity="center_vertical"
+            android:padding="@dimen/viewMargin"
+            android:text="@string/dummyItem1"
+            android:textColor="@color/black"
+            android:textSize="@dimen/textSizeLarge" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/viewMarginSmall" />
+
+        <TextView
+            android:id="@+id/dummy2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_border"
+            android:drawableLeft="@drawable/invite"
+            android:drawablePadding="@dimen/viewMargin"
+            android:drawableStart="@drawable/invite"
+            android:gravity="center_vertical"
+            android:padding="@dimen/viewMargin"
+            android:text="@string/dummyItem2"
+            android:textColor="@color/black"
+            android:textSize="@dimen/textSizeLarge" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/viewMarginSmall" />
+
+        <TextView
+            android:id="@+id/dummy3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_border"
+            android:drawableLeft="@drawable/invite"
+            android:drawablePadding="@dimen/viewMargin"
+            android:drawableStart="@drawable/invite"
+            android:gravity="center_vertical"
+            android:padding="@dimen/viewMargin"
+            android:text="@string/dummyItem3"
+            android:textColor="@color/black"
+            android:textSize="@dimen/textSizeLarge" />
+    </LinearLayout>
+</layout>
